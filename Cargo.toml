@@ -30,7 +30,7 @@ serde_yaml = ">=0.8.4,<0.9"
 csv = "1"
 lazy_static = "1"
 cached = "0.26"
-statrs = "0.15"
+statrs = "0.16"
 clap = {version = "2", features = ["yaml", "color", "suggestions"]}
 structopt = "0.3"
 strum = ">= 0.16, < 0.24"
